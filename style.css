@@ -28,7 +28,7 @@ body {
   border: 1px solid #959595; /* espessura, tipo e cor da borda */
   border-radius: 10px;
   padding: 10px;           /* espaço interno */
-  width: 100%;
+  width: auto;
   margin: 0px 0px 5px 0px;
 }
 
@@ -183,7 +183,7 @@ body {
   color: #fff;
   border-radius: 10px;
   padding: 0px 0px 0px 1em;
-  width: 100%;
+  width: auto;
 
 }
 
