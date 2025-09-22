@@ -203,6 +203,10 @@ body {
   font-size: 16px;
   transition: 0.3s;
 }
+
+.btn-baixeoedital:hover {
+  background: #387a28;
+}
 .btn-inscricao {
   display: block;
   background: #ff8500;
